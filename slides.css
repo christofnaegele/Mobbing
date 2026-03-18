@@ -1,0 +1,164 @@
+/* ===== Quarto Reveal.js — Clean Academic (robust) ===== */
+
+/* 1) Base typography + left alignment */
+.reveal {
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 28px;          /* overall scale */
+  line-height: 1.28;
+}
+.reveal .slides { text-align: left; }
+
+.reveal p, .reveal li, .reveal ul, .reveal ol { text-align: left; }
+
+/* 2) Slide box / spacing */
+.reveal .slides section {
+  box-sizing: border-box;
+  padding: 56px 72px 64px 72px;   /* top right bottom left */
+}
+
+/* 3) Headings (FORCED sizes; beats theme overrides) */
+.reveal .slides section h1 { 
+  font-size: 1.05em !important; 
+  font-weight: 750;
+  line-height: 1.08;
+  margin: 0 0 16px 0 !important;
+  letter-spacing: -0.01em;
+}
+.reveal .slides section h2 { 
+  font-size: 0.95em !important; 
+  font-weight: 700;
+  line-height: 1.12;
+  margin: 0 0 14px 0 !important;
+}
+.reveal .slides section h3 { 
+  font-size: 0.90em !important; 
+  font-weight: 650;
+  line-height: 1.15;
+  margin: 0 0 12px 0 !important;
+}
+
+/* 4) Paragraph + lists rhythm */
+.reveal p { margin: 0 0 0.75em 0; max-width: 980px; }
+.reveal ul, .reveal ol { margin: 0.2em 0 0.8em 1.1em; }
+.reveal li { margin: 0.15em 0; }
+
+/* 5) Title slide (apply class in markdown: # Title {.title-slide}) */
+.reveal .slides section.title-slide {
+  padding: 0 72px !important;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;         /* academic: left */
+}
+.reveal .slides section.title-slide h1 {
+  font-size: 1.60em !important;
+  margin-bottom: 10px !important;
+}
+.reveal .slides section.title-slide p {
+  margin: 8px 0 0 0;
+  opacity: 0.9;
+}
+
+/* 6) Section divider slide (apply class: # Part 1 {.section-slide}) */
+.reveal .slides section.section-slide {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+}
+.reveal .slides section.section-slide h1 {
+  font-size: 1.35em !important;
+  margin-bottom: 8px !important;
+}
+
+/* 7) Images: reliable scaling */
+.reveal img {
+  max-height: 70vh;
+  max-width: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+/* 8) Two columns helper */
+.reveal .cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+  align-items: start;
+  width: 100%;
+}
+
+.reveal .cols > .col {
+  min-width: 0;
+}
+
+/* 9) Tables */
+.reveal table { font-size: 0.85em; }
+.reveal th, .reveal td { padding: 8px 10px; vertical-align: top; }
+
+/* 10) Links / sources */
+.reveal a { text-decoration: underline; text-underline-offset: 3px; }
+
+.reveal .links,
+.reveal .links a { font-size: 0.75em; }
+.reveal .links { opacity: 0.85; }
+
+.reveal .source,
+.reveal .source a { font-size: 0.75em; }
+.reveal .source { opacity: 0.85; line-height: 1.00; margin-top: 12px; }
+
+/* 11) Slide numbers */
+.reveal .slide-number {
+  right: 22px !important;
+  bottom: 14px !important;
+  font-size: 0.55em !important;
+  background: transparent !important;
+  opacity: 0.75;
+  padding: 0 !important;
+}
+
+/* 12) Optional footer block you place manually:
+<div class="footer">Modul ...</div>
+*/
+.footer {
+  position: fixed;
+  left: 22px;
+  bottom: 14px;
+  font-size: 0.55em;
+  opacity: 0.75;
+}
+
+/* 13) Print/PDF friendliness */
+
+/* Force smaller sources in RevealJS PDF export */
+.reveal .source,
+.reveal .source a{
+  font-size: 0.60em;
+}
+
+@media print {
+  .reveal .source,
+  .reveal .source a {
+    font-size: 0.55em !important;
+    line-height: 1.25 !important;
+  }
+}
+
+/* Reveal's PDF mode often adds these classes */
+.reveal.print-pdf .source,
+.reveal.print-pdf .source a,
+.print-pdf .source,
+.print-pdf .source a {
+  font-size: 0.55em !important;
+}
+
+
+/* Force readable text colours */
+.reveal,
+.reveal p, .reveal li, .reveal ul, .reveal ol,
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  color: #111 !important;
+}
+
+.reveal .slides section {
+  background: #fff !important;
+}
