@@ -4,6 +4,10 @@ format:
   revealjs:
     center: false
     slide-number: true
+    controls: true
+    progress: true
+    transition: none
+    smaller: false
     css: slides.css
 ---
 
