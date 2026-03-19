@@ -162,3 +162,32 @@
 .reveal .slides section {
   background: #fff !important;
 }
+
+
+/* Logo links */
+.reveal::before {
+  content: "";
+  position: fixed;
+  top: 20px;
+  left: 20px;                 /* links */
+  width: 350px;
+  height: 150px;
+  background-image: url("images/Logo_PHFHNW.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 9999;
+}
+
+/* Name rechts */
+.reveal::after {
+  content: "C. Nägele, PH FHNW";
+  position: fixed;
+  top: 20px;
+  right: 20px;               /* rechts */
+  font-size: 14px;
+  opacity: 0.6;
+  font-style: normal;
+  z-index: 9999;
+}
+
+
