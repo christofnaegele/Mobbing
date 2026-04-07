@@ -269,7 +269,7 @@ Rogers
 <br>
 ABER: Einfluss wird durch soziale Kontexte mitbestimmt.
 
-# Moral Disengagement
+## Moral Disengagement
 
 Paradox: Kinder und Jugendliche beurteilen Mobbing grundsätzlich als moralisch falsch, dennoch beteiligen sich einige daran. 
 
@@ -279,7 +279,7 @@ Dieses Auseinanderfallen wird durch *moral disengagement* erklärt.
 
 Dadurch können schädigende Handlungen ohne Schuldgefühle ausgeführt werden.
 
-# Moral Disengagement und Mobbing
+## Moral Disengagement und Mobbing
 
 - Hohes moral disengagement ist stark mit Mobbing, Aggression und Cybermobbing verbunden
 - Täter und Täter/Opfer weisen höhere Werte auf als andere
@@ -287,7 +287,7 @@ Dadurch können schädigende Handlungen ohne Schuldgefühle ausgeführt werden.
 
 Moral disengagement ist veränderbar und wird auch durch das soziale Umfeld (z. B. Klasse, Peers) beeinflusst. Klassen mit hohem kollektivem moral disengagement zeigen mehr Mobbing und weniger Eingreifen.
 
-# Moral Disengagement und Mobbing
+## Moral Disengagement und Mobbing
 
 Mobbing entsteht nicht nur durch mangelnde Moral, sondern vor allem durch Prozesse der moralischen Rechtfertigung, die es ermöglichen, trotz besseren Wissens schädlich zu handeln – verstärkt durch soziale Kontexte.
 
@@ -380,7 +380,6 @@ Verteidiger sind zentral für die Unterbrechung von Mobbing, ihr Verhalten häng
 - Empathie
 - Selbstwirksamkeit
 - sozialem Status
-
 
 ## Konsequenz für Schule
 
