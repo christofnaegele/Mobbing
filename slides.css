@@ -1,76 +1,113 @@
 /* ===== Quarto Reveal.js — Clean Academic (robust) ===== */
 
+:root {
+  --base-font: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --base-font-size: 28px;
+  --base-line-height: 1.28;
+  --slide-padding: 56px 72px 64px 72px;
+  --text-color: #111;
+}
+
 /* 1) Base typography + left alignment */
 .reveal {
-  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  font-size: 28px;          /* overall scale */
-  line-height: 1.28;
+  font-family: var(--base-font);
+  font-size: var(--base-font-size);
+  line-height: var(--base-line-height);
 }
-.reveal .slides { text-align: left; }
 
-.reveal p, .reveal li, .reveal ul, .reveal ol { text-align: left; }
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .reveal .slides section,
+  .reveal .slides section.title-slide,
+  .reveal .slides section.section-slide {
+    transition: none ;
+    animation: none ;
+  }
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal p,
+.reveal li,
+.reveal ul,
+.reveal ol {
+  text-align: left;
+}
 
 /* 2) Slide box / spacing */
 .reveal .slides section {
   box-sizing: border-box;
-  padding: 56px 72px 64px 72px;   /* top right bottom left */
+  padding: var(--slide-padding);
+  background: #fff ;
 }
 
-/* 3) Headings (FORCED sizes; beats theme overrides) */
-.reveal .slides section h1 { 
-  font-size: 1.05em !important; 
-  font-weight: 750;
+.reveal :is(p, li, ul, ol, h1, h2, h3) {
+  color: var(--text-color);
+}
+
+/* 3) Headings */
+.reveal .slides section h1,
+.reveal .slides section h2 {
+  font-size: 1.35em ;
+  font-weight: 700;
   line-height: 1.08;
-  margin: 0 0 16px 0 !important;
+  margin: 0 0 0.8em 0 ;
   letter-spacing: -0.01em;
 }
-.reveal .slides section h2 { 
-  font-size: 0.95em !important; 
-  font-weight: 700;
-  line-height: 1.12;
-  margin: 0 0 14px 0 !important;
-}
-.reveal .slides section h3 { 
-  font-size: 0.90em !important; 
-  font-weight: 650;
-  line-height: 1.15;
-  margin: 0 0 12px 0 !important;
+
+/* Make h3 less prominent */
+.reveal .slides section h3 {
+  font-size: 0.95em ;
+  font-weight: 600 ;
 }
 
-/* 4) Paragraph + lists rhythm */
-.reveal p { margin: 0 0 0.75em 0; max-width: 980px; }
-.reveal ul, .reveal ol { margin: 0.2em 0 0.8em 1.1em; }
-.reveal li { margin: 0.15em 0; }
 
-/* 5) Title slide (apply class in markdown: # Title {.title-slide}) */
+/* 4) Paragraph + lists */
+.reveal p {
+  margin: 0 0 0.75em 0;
+}
+
+.reveal ul,
+.reveal ol {
+  margin: 0.2em 0 0.8em 1.1em;
+}
+
+.reveal li {
+  margin: 0.15em 0;
+}
+
+/* 5) Title slide */
 .reveal .slides section.title-slide {
-  padding: 0 72px !important;
-  display: flex !important;
+  padding: 0 72px ;
+  display: flex ;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;         /* academic: left */
+  align-items: flex-start;
 }
+
 .reveal .slides section.title-slide h1 {
-  font-size: 1.60em !important;
-  margin-bottom: 10px !important;
+  font-size: 2.2em ;
 }
+
 .reveal .slides section.title-slide p {
-  margin: 8px 0 0 0;
+  margin-top: 8px;
   opacity: 0.9;
 }
 
-/* 6) Section divider slide (apply class: # Part 1 {.section-slide}) */
+/* 6) Section slide */
 .reveal .slides section.section-slide {
-  display: flex !important;
+  display: flex ;
   flex-direction: column;
   justify-content: center;
 }
+
 .reveal .slides section.section-slide h1 {
-  font-size: 1.35em !important;
-  margin-bottom: 8px !important;
+  font-size: 1.35em ;
 }
 
-/* 7) Images: reliable scaling */
+/* 7) Images */
 .reveal img {
   max-height: 70vh;
   max-width: 100%;
@@ -78,116 +115,275 @@
   border-radius: 8px;
 }
 
-/* 8) Two columns helper */
-.reveal .cols {
+/* 8) Two columns (responsive) */
+.cols {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 28px;
-  align-items: start;
-  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
 }
 
-.reveal .cols > .col {
-  min-width: 0;
+.reveal .stat-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 8px;
 }
+
+.reveal .stat-card {
+  border: 1px solid #d8dce2;
+  border-radius: 10px;
+  padding: 14px 16px;
+  background: linear-gradient(180deg, #fbfcfd 0%, #f2f5f8 100%);
+}
+
+.reveal .stat-label {
+  margin: 0;
+  font-size: 0.62em;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #5b6673;
+}
+
+.reveal .stat-value {
+  margin: 4px 0 12px 0;
+  font-size: 1.05em;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #12263a;
+}
+
+.reveal .stat-note {
+  margin: 0;
+  font-size: 0.74em;
+  line-height: 1.3;
+}
+
 
 /* 9) Tables */
-.reveal table { font-size: 0.85em; }
-.reveal th, .reveal td { padding: 8px 10px; vertical-align: top; }
-
-/* 10) Links / sources */
-.reveal a { text-decoration: underline; text-underline-offset: 3px; }
-
-.reveal .links,
-.reveal .links a { font-size: 0.75em; }
-.reveal .links { opacity: 0.85; }
-
-.reveal .source,
-.reveal .source a { font-size: 0.75em; }
-.reveal .source { opacity: 0.85; line-height: 1.00; margin-top: 12px; }
-
-/* 11) Slide numbers */
-.reveal .slide-number {
-  right: 22px !important;
-  bottom: 14px !important;
-  font-size: 0.55em !important;
-  background: transparent !important;
-  opacity: 0.75;
-  padding: 0 !important;
+.reveal table {
+  font-size: 0.85em;
 }
 
-/* 12) Optional footer block you place manually:
-<div class="footer">Modul ...</div>
-*/
+.reveal th,
+.reveal td {
+  padding: 8px 10px;
+  vertical-align: top;
+}
+
+/* 10) Links */
+.reveal a {
+  text-decoration: underline;
+  font-size: 0.60em;
+  color: #555;
+}
+
+.reveal .stat-note a {
+  font-size: 1em;
+}
+
+.reveal .source a {
+  font-size: 0.60em;
+  color: #444;
+}
+
+.reveal .link,
+.reveal .link p {
+  font-size: 0.60em;
+  color: #555;
+}
+
+.reveal .link a {
+  font-size: 1em;
+  color: #555;
+}
+
+/* 11) Footer + slide numbers */
 .footer {
   position: fixed;
   left: 22px;
   bottom: 14px;
-  font-size: 0.55em;
+  font-size: 0.75em;
   opacity: 0.75;
 }
 
-/* 13) Print/PDF friendliness */
-
-/* Force smaller sources in RevealJS PDF export */
-.reveal .source,
-.reveal .source a{
-  font-size: 0.60em;
+.reveal .slide-number {
+  right: 22px ;
+  bottom: 14px ;
+  font-size: 0.55em ;
 }
 
-@media print {
-  .reveal .source,
-  .reveal .source a {
-    font-size: 0.55em !important;
-    line-height: 1.25 !important;
-  }
+/* 13) APA */
+.apa-ref {
+  text-indent: -1.27cm;
+  padding-left: 1.27cm;
 }
 
-/* Reveal's PDF mode often adds these classes */
-.reveal.print-pdf .source,
-.reveal.print-pdf .source a,
-.print-pdf .source,
-.print-pdf .source a {
-  font-size: 0.55em !important;
-}
-
-
-/* Force readable text colours */
-.reveal,
-.reveal p, .reveal li, .reveal ul, .reveal ol,
-.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
-  color: #111 !important;
-}
-
-.reveal .slides section {
-  background: #fff !important;
-}
-
-
-/* Logo links */
+/* 14) Logo (screen only) */
 .reveal::before {
   content: "";
   position: fixed;
-  top: 20px;
-  left: 20px;                 /* links */
-  width: 350px;
-  height: 150px;
+  top: 10px;
+  left: 10px;
+  width: 420px;
+  height: 40px;
+  pointer-events: none;
   background-image: url("images/Logo_PHFHNW.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   z-index: 9999;
 }
 
-/* Name rechts */
+/* 15) Name right */
 .reveal::after {
-  content: "C. Nägele, PH FHNW";
+  content: "Dr C. Nägele, PH FHNW & IBW Uni Basel";
   position: fixed;
   top: 20px;
-  right: 20px;               /* rechts */
-  font-size: 14px;
+  right: 20px;
+  font-size: 0.5em;
   opacity: 0.6;
-  font-style: normal;
+}
+
+/* 16) Utility sizes */
+.reveal .small-text {
+  font-size: 0.80em ;
+}
+
+.reveal .very-small-text {
+  font-size: 0.60em ;
+}
+
+/* 17) Hide notes */
+.reveal .note {
+  display: none;
+}
+
+/* 18) Sources */
+.reveal .source,
+.reveal .source p,
+.reveal .source li {
+  font-size: 0.65em ;
+  line-height: 1.0 ;
+}
+
+.reveal .source a {
+  font-size: 0.65em ;
+  line-height: 1.0 ;
+}
+
+.reveal .source {
+  opacity: 0.85;
+  margin-top: 12px;
+}
+
+.reveal .source p {
+  margin: 0 ;
+  max-width: none ;
+}
+
+/* ===== PRINT + PDF ===== */
+
+/* hide print elements on screen */
+.print-logo,
+.print-name {
+  display: none ;
+}
+
+/* PRINT */
+@media print {
+  .reveal .slides section {
+    padding: 120px 48px 42px 48px ;
+  }
+
+  .print-logo {
+    display: block ;
+    position: fixed ;
+    top: 20px;
+    left: 20px;
+    width: 100px ;
+    max-width: 100px ;
+    max-height: none ;
+    height: auto ;
+    z-index: 9999;
+  }
+
+  .print-name {
+    display: block ;
+    position: fixed ;
+    top: 20px;
+    right: 20px;
+    font-size: 14px ;
+    opacity: 0.6;
+    z-index: 9999;
+  }
+
+  .reveal::before,
+  .reveal::after {
+    display: none ;
+  }
+
+  .reveal .source,
+  .reveal .source p,
+  .reveal .source li {
+    font-size: 0.55em ;
+    line-height: 1.2 ;
+  }
+
+  .reveal .source a {
+    font-size: 0.65em ;
+    line-height: 1.2 ;
+  }
+}
+
+/* PDF (Reveal print mode) */
+.reveal.print-pdf .slides section,
+.print-pdf .reveal .slides section {
+  padding: 120px 48px 42px 48px ;
+}
+
+.reveal.print-pdf .print-logo,
+.print-pdf .print-logo {
+  display: block ;
+  position: fixed ;
+  top: 20px;
+  left: 20px;
+  width: 100px ;
+  max-width: 100px ;
+  max-height: none ;
+  height: auto ;
   z-index: 9999;
 }
 
+.reveal.print-pdf .print-name,
+.print-pdf .print-name {
+  display: block ;
+  position: fixed ;
+  top: 20px;
+  right: 20px;
+  font-size: 14px ;
+  opacity: 0.6;
+  z-index: 9999;
+}
 
+.reveal.print-pdf::before,
+.print-pdf .reveal::before,
+.reveal.print-pdf::after,
+.print-pdf .reveal::after {
+  display: none ;
+}
+
+.reveal.print-pdf .source,
+.reveal.print-pdf .source p,
+.reveal.print-pdf .source li,
+.print-pdf .source,
+.print-pdf .source p,
+.print-pdf .source li {
+  font-size: 0.75em ;
+  line-height: 1.0 ;
+}
+
+.reveal.print-pdf .source a,
+.print-pdf .source a {
+  font-size: 0.75em ;
+  line-height: 1.0 ;
+}
+ 

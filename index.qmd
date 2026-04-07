@@ -13,15 +13,20 @@ format:
 
 # Wichtige Links {.section-slide}
 
+::: {=html}
+<img src="images/Logo_PHFHNW.jpg" class="print-logo" alt="Logo">
+<div class="print-name">C. Nägele, PH FHNW & Uni Basel</div>
+:::
+
 ::: {.links}
 [Moodle](https://moodle.fhnw.ch/course/view.php?id=68365) ·
 [Programm](https://drive.switch.ch/index.php/s/yuI3Qc3p9ftUmz2)
 :::
 
-# Termin 1 <br>
+# Termin 1
 Einführung Aggression und Mobbing
 
-# Termin 2 <br>
+# Termin 2
 Aggression
 
 # The nature of human aggression
@@ -74,8 +79,7 @@ Nach der Lektüre und Diskussion
 
 Krahé, B. (2015). Aggression: Eine sozialpsychologische Perspektive. In G. Hartung & M. Herrgen (Eds), *Interdisziplinäre Anthropologie* (pp. 13–48). Springer Fachmedien Wiesbaden.
 
-# Definition und drei  Leitfragen 
-
+# Definition und drei  Leitfragen
 In der Sozialpsychologie versteht man unter Aggression eine Form des sozialen Verhaltens, d.h. ein Verhalten von einzelnen Personen oder Gruppen gegenüber anderen Personen oder Gruppen.
 
 (a) Maßgeblich für die Qualifikation eines Verhaltens als „aggressiv“ ist die Schädigungsabsicht, also die dem Verhalten zugrunde liegende Motivation.<br>
@@ -89,9 +93,9 @@ Hormonelle Erklärungen ... beeinflusst durch Testosteron und Kortisol  <br>
 Vergleichende Verhaltensforschung (Ethologie)  ... Produkt einer inneren Energie, die durch äußere Hinweisreize freigesetzt wird  <br>
 Evolutionsbiologie ... Ergebnis der natürlichen Selektion<br><br>
 
-# Theorien Psychologische Ansätze<br>
+# Theorien Psychologische Ansätze
 
-Frustrations- AggressionsHypothese  ... eine durch Frustration ausgelöste Reaktion, deren Wahrscheinlichkeit durch aggressive Hinweisreize erhöht wird  <br>
+Frustrations-Aggressions-Hypothese  ... eine durch Frustration ausgelöste Reaktion, deren Wahrscheinlichkeit durch aggressive Hinweisreize erhöht wird  <br>
 Kognitives neoassoziationistisches Modell  ... Ergebnis negativen Affekts, der durch unangenehme Reize ausgelöst und als Ärger interpretiert wird  <br>
 Erregungsübertragung ... Intensivierung von Ärger-Erregung durch die  Fehlattribution von körperlicher Erregung aus neutraler Quelle <br>
 Lerntheorie ... Ergebnis von Verstärkung, entweder direkt oder  indirekt (beobachtet) <br>
@@ -162,4 +166,233 @@ Nach der Lektüre und Diskussion
 - Halten Sie die zentralen theoretischen Konzepte, Befunde und Erklärungsansätze fest.
 - Leiten Sie aus diesen Erkenntnissen relevante Schlussfolgerungen für Ihr Fokusthema ab.<br>
 - Halten Sie Ihre Überlegungen in strukturierter Form fest (z. B. Stichpunkte, kurze Ausführungen oder Skizzen).
+
+
+# Termin 5 asynchron
+
+Lektüre
+
+# Termin 6 Lektüre
+
+Thornberg, R., Gini, G., Malti, T., & Galarneau, E. (2021). Personality factors, empathy, and moral disengagement in bullying. In P. K. Smith & O. Norman (Eds), *The Wiley Blackwell Handbook of Bullying* (pp. 415–432). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118482650.ch23
+
+
+## Big Five
+
+- *Extraversion:* Geselligkeit, positive Emotionalität, Gesprächigkeit und Durchsetzungsfähigkeit
+- *Verträglichkeit* (Agreeableness): Hilfsbereitschaft, Mitgefühl, Vertrauen und Höflichkeit
+- *Gewissenhaftigkeit:* Selbstdisziplin, Organisation sowie Kontrolle von Impulsen und vorausschauendes Handeln
+- *Neurotizismus:* emotionale Instabilität, Unsicherheit und Neigung zu negativen Gefühlen (z. B. Angst, Traurigkeit)
+- *Offenheit:* geistige Offenheit, Neugier, Kreativität und ästhetische Sensibilität
+
+## Big Five und Mobbing
+
+- *Täter:* niedrige Verträglichkeit, teils höherer Neurotizismus
+- *Opfer:* hoher Neurotizismus, geringere Verträglichkeit und Gewissenhaftigkeit
+- *Täter/Opfer:* besonders ungünstiges Profil (niedrig in Verträglichkeit und Gewissenhaftigkeit, hoch in Neurotizismus)
+- *Verteidiger:* hohe Verträglichkeit, niedriger Neurotizismus
+- *Aussenstehende:* geringere Extraversion
+
+## HEXACO Modell
+
+H – *Honesty-Humility* (Ehrlichkeit-Bescheidenheit). Fairness, Aufrichtigkeit, keine Ausnutzung anderer, geringe Gier nach Status/Macht
+
+E – *Emotionality* (Emotionalität). Ängstlichkeit, Verletzlichkeit, Bindungsfähigkeit, Mitgefühl
+
+X – *Extraversion*. Geselligkeit, Aktivität, Selbstsicherheit, positive Emotionen
+
+A – *Agreeableness* (Verträglichkeit).
+
+C – *Conscientiousness* (Gewissenhaftigkeit)
+
+O – *Openness* (Offenheit)
+
+
+## HEXACO Modell und Mobbing 
+
+Geringe *Ehrlichkeit-Bescheidenheit* (Honesty-Humility), die mit Ausbeutung, Manipulation und Machtstreben zusammenhängt, sagt alle Formen von Mobbing vorher.
+
+- *Täter:* geringe Ehrlichkeit-Bescheidenheit, geringe Verträglichkeit, teils geringe Gewissenhaftigkeit
+- *Opfer:* hoher Neurotizismus, geringere Verträglichkeit und Gewissenhaftigkeit
+- *Täter/Opfer:* besonders ungünstige Kombination (niedrig in sozialen und selbstregulativen Merkmalen, hoch in Neurotizismus)
+- *Verteidiger:* hohe Verträglichkeit, niedriger Neurotizismus
+
+## Dark Triad Personality Traits
+
+- *Narzissmus* (Überlegenheitsgefühl, Bedürfnis nach Aufmerksamkeit): konsistent positiv mit Mobbing und Cybermobbing verbunden
+- *Machiavellismus* (manipulatives, strategisches Verhalten): positive Zusammenhänge mit Mobbing
+- *Psychopathie* (geringe Empathie, hohe Impulsivität, rücksichtsloses Verhalten): stärkster Prädiktor, bleibt oft der einzige signifikante Prädiktor
+- *Sadismus* (Freude am Zufügen von Leid): besonders stark mit Mobbing – insbesondere Cybermobbing
+
+## Dark Triad Personality Traits und Mobbing
+
+- *Mobbing:* Psychopathie (+), Sadismus und Machiavellismus (+), geringe Verträglichkeit (–)
+- *Cybermobbing:* vor allem Sadismus (+), geringe Verträglichkeit (–)
+
+## Callous-Unemotional Traits
+
+- *Callousness:* Gefühllosigkeit, fehlende Empathie
+- *Uncaring:* Gleichgültigkeit gegenüber Leistung/Normen
+- *Unemotional:* geringer emotionaler Ausdruck
+
+## Callous-Unemotional Traits und Mobbing
+
+Für Mobbing sind vor allem Callousness und Uncaring relevant, während Unemotionalität weniger konsistent mit Mobbing zusammenhängt.
+
+## Empathie
+
+Sozial-emotionale Kompetenzen – insbesondere Empathie – sind zentral für gelingende soziale Beziehungen
+
+Empathie umfasst zwei Komponenten:
+
+- *Kognitive Empathie* (Verstehen)
+- *Affektive Empathie* (Mitfühlen)
+
+## Empathie
+
+Empathie =
+
+die Welt des anderen so verstehen, als ob man diese Person wäre – ohne dieses „als ob“ zu verlieren
+
+Empathie ist nicht nur Gefühl, sondern:
+- aktive, kommunikative Haltung
+- Grundlage für Veränderung und Entwicklung
+
+Rogers
+
+## Empathie und Mobbing 
+
+- Geringe Empathie: Risikofaktor Mobbing: 
+- Kognitive Empathie reicht nicht immer aus, um Mobbing zu verhindern
+- Affektive Empathie ist wichtig!
+
+<br>
+ABER: Einfluss wird durch soziale Kontexte mitbestimmt.
+
+# Moral Disengagement
+
+Paradox: Kinder und Jugendliche beurteilen Mobbing grundsätzlich als moralisch falsch, dennoch beteiligen sich einige daran. 
+
+Dieses Auseinanderfallen wird durch *moral disengagement* erklärt.
+
+= kognitive Mechanismen, mit denen Menschen ihr Verhalten rechtfertigen und moralische Selbstkontrolle aussetzen, z. B. durch: Rechtfertigung („guter Zweck“), Verharmlosung, Verschiebung oder Aufteilung von Verantwortung, Leugnung von Schäden, Entmenschlichung oder Schuldzuweisung an das Opfer
+
+Dadurch können schädigende Handlungen ohne Schuldgefühle ausgeführt werden.
+
+# Moral Disengagement und Mobbing
+
+- Hohes moral disengagement ist stark mit Mobbing, Aggression und Cybermobbing verbunden
+- Täter und Täter/Opfer weisen höhere Werte auf als andere
+- Es fördert pro-mobbing Verhalten (Mitmachen, Verstärken) und reduziert Verteidigungsverhalten
+
+Moral disengagement ist veränderbar und wird auch durch das soziale Umfeld (z. B. Klasse, Peers) beeinflusst. Klassen mit hohem kollektivem moral disengagement zeigen mehr Mobbing und weniger Eingreifen.
+
+# Moral Disengagement und Mobbing
+
+Mobbing entsteht nicht nur durch mangelnde Moral, sondern vor allem durch Prozesse der moralischen Rechtfertigung, die es ermöglichen, trotz besseren Wissens schädlich zu handeln – verstärkt durch soziale Kontexte.
+
+## Konklusion
+
+- Mobbing entsteht aus dem Zusammenspiel von Persönlichkeit, Emotion und moralischen Urteilen.
+- Wichtige Risikofaktoren sind u. a. geringe Verträglichkeit, geringe Gewissenhaftigkeit und niedrige Ehrlichkeit-Bescheidenheit.
+- Dunkle Merkmale wie Psychopathie, Machiavellismus und Sadismus erhöhen das Risiko für aggressives Verhalten.
+- Geringe Empathie, vor allem fehlendes Mitgefühl, begünstigt Mobbing; kognitive Empathie allein reicht oft nicht.
+- Moral disengagement ermöglicht die Rechtfertigung von schädigendem Verhalten trotz moralischen Wissens.
+- Entscheidend ist die Interaktion von Person und Kontext (Peers, Klasse, Normen, Schulklima).
+
+## Konsequenz für Schule
+
+Prävention muss daher individuelle Kompetenzen und soziale Bedingungen gleichzeitig adressieren.
+
+Entscheidend ist nicht, „wer ein Täter ist“, sondern wie die Klasse funktioniert: Lehrpersonen sollten moralische Reflexion fördern, Mitgefühl stärken, Eingreifen erleichtern und klare soziale Normen setzen – denn Mobbing entsteht und verändert sich im Zusammenspiel von Individuum und Kontext.
+
+## Prävention 
+
+Was lässt sich für Prävention ableiten? 
+
+## Prävention 
+
+1. Klasse statt Individuum
+	•	Mobbing als Gruppenphänomen verstehen
+	•	Normen und Dynamiken aktiv gestalten
+
+2. Moralisches Denken aktivieren
+	•	Rechtfertigungen sichtbar machen
+	•	Perspektivenwechsel fördern
+
+3. Mitgefühl stärken
+	•	Fokus auf Anteilnahme (nicht nur Verstehen)
+	•	emotionale Reflexion anregen
+
+4. Verteidigen erleichtern
+	•	konkrete Handlungsstrategien vermitteln
+	•	Selbstwirksamkeit stärken
+
+5. Unterschiede berücksichtigen
+	•	keine Etikettierung
+	•	individuelle Unterstützung bieten
+
+6. Klassenklima gestalten
+	•	klare Normen setzen und vorleben
+	•	prosoziales Verhalten sichtbar machen
+
+7. Veränderbarkeit betonen
+	•	Verhalten ist entwickelbar
+	•	Reflexion vor Sanktion
+
+
+
+## Lektüre
+
+Salmivalli, C. (2010). Bullying and the peer group: A review. *Aggression and Violent Behavior, 15*, 112–120. https://doi.org/10.1016/j.avb.2009.08.007
+
+
+## Gruppe 
+
+Mobbing ist kein rein individuelles Verhalten, sondern ein soziales Gruppenphänomen, das stark durch Peer-Dynamiken geprägt wird.
+
+## Teilnehmerrollen
+
+Die Mehrheit der Klasse ist beteiligt – aktiv oder passiv.
+
+- Täter:innen (bullies)
+- Assistent:innen (helfen Täter:in aktiv)
+- Verstärker:innen (lachen, unterstützen indirekt)
+- Verteidiger:innen (helfen dem Opfer)
+- Aussenstehende (outsiders)
+
+## Warum Mobbing in Gruppen funktioniert
+
+- Täter:innen erhalten soziale Belohnung (Status, Aufmerksamkeit)
+- Verhalten wird durch Peer-Reaktionen stabilisiert
+- Gruppennormen beeinflussen, ob Mobbing toleriert wird
+
+## Status und Popularität
+
+- Täter sind häufig sozial einflussreich (hoch in Popularität)
+- aber nicht zwingend beliebt
+- Mobbing dient oft dazu, Status und Einfluss zu sichern oder zu erhöhen
+
+
+## Rolle der Verteidiger
+Verteidiger sind zentral für die Unterbrechung von Mobbing, ihr Verhalten hängt ab von:
+
+- Empathie
+- Selbstwirksamkeit
+- sozialem Status
+
+
+## Konsequenz für Schule
+
+Interventionen sollten:
+- nicht nur Täter fokussieren
+- sondern die ganze Gruppe adressieren
+
+Besonders wirksam:
+- Veränderung von Gruppennormen
+- Förderung von Verteidigungsverhalten
+- Reduktion von sozialer Belohnung für Täter
+
+## Wie macht man das?
+
 
