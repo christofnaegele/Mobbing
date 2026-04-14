@@ -9,6 +9,7 @@ format:
     transition: none
     smaller: false
     css: slides.css
+    slide-level: 3
 ---
 
 # Wichtige Links {.section-slide}
@@ -395,3 +396,381 @@ Besonders wirksam:
 ## Wie macht man das?
 
 
+# Termin 7 Lektüre
+
+## Rolle der Lehrer:innen 
+
+Green, V. A. (2021). The role of teachers. In P. K. Smith & J. O’Higgins Norman (Eds), The Wiley Blackwell Handbook of Bullying: A Comprehensive and International Review of Research and Intervention (pp. 333–350). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118482650.ch52
+
+### Verhalten 
+
+„Das Verhalten entsteht durch das Zusammenspiel von Person, Umfeld und Kontext“
+
+Social-ecological model (Espelage & Swearer, 2004): <br>
+Rahmenmodell zur Erklärung von Verhalten (z. B. Mobbing) 
+
+Verhalten ist immer eingebettet in ein mehrschichtiges System aus Einflüssen.<br><br>
+„Das Verhalten entsteht durch das Zusammenspiel von Person, Umfeld und Kontext“
+
+### Zentrale Aussage
+
+- Lehrpersonen sind zentrale Akteure bei
+	- Entstehung
+	- Aufrechterhaltung
+	- Prävention von Mobbing
+- Ihr Verhalten prägt das Klassenklima und soziale Beziehungen
+
+### Warum sind Lehrpersonen wichtig?
+
+- Beobachten soziale Interaktionen im Alltag
+- Beeinflussen Normen und Beziehungen („unsichtbare Hand“)
+- Setzen Erwartungen an Verhalten
+- Aktives Eingreifen:
+	- reduziert Mobbing
+	- stärkt Sicherheit und Zugehörigkeit
+
+### Problem: Typische Reaktionen
+
+- Mobbing wird oft:
+	- unterschätzt
+	- nicht erkannt
+- Reaktionen sind häufig:
+	- inkonsequent
+	- überwiegend strafend
+- Nicht-Handeln signalisiert: Mobbing wird toleriert
+
+### Grenzen strafender Ansätze
+
+kurzfristig wirksam<br><br>
+aber:<br>
+	- fördern keine Empathie<br>
+	- keine nachhaltige Verhaltensänderung<br>
+	- können negative Dynamiken verstärken
+
+### Hindernisse für wirksames Handeln
+
+- Überzeugungen:<br>
+	- Mobbing als „normal“<br>
+	- Geringe Empathie für Opfer
+- Unsicherheit / geringe Selbstwirksamkeit
+- Schwierigkeit, indirektes Mobbing zu erkennen
+- Fehlende Ausbildung und Strategien
+
+### Was hilft?
+
+- gezielte Aus- und Weiterbildung
+- konkrete Handlungsstrategien
+- mehrere, situationsangepasste Ansätze
+- Fokus auf Unterstützung statt nur Strafe
+
+### Schlüssel: Beziehung
+
+- Qualität der Lehrer-Schüler-Beziehung ist entscheidend
+- Positive Beziehungen:
+	- weniger Mobbing
+	- mehr Vertrauen
+	- höhere Meldebereitschaft
+- Erfolgreiche Lehrpersonen:
+	- klar und unterstützend zugleich
+	- sensibel für Bedürfnisse der Lernenden
+
+### Fazit
+
+Mobbingprävention = Gestaltung des Klassenklimas<br><br>
+entscheidend:<br>
+	unterstützende, inklusive Lernumgebung<br>
+	kooperative statt konkurrenzorientierte Kultur<br>
+	Lehrpersonen sind zentrale Gestalter dieser Prozesse<br>
+
+
+## Prävention 
+
+Schubarth, W. (Ed.). (2019). Gewalt und Mobbing an Schulen: Möglichkeiten der Prävention und Intervention. Kohlhammer.
+
+### Intervention und Verantwortung
+
+- Jede Person ist für ihr Handeln verantwortlich  
+- Intervention ist zentraler Bestandteil pädagogischer Arbeit  
+- Positives Verhalten gezielt stärken:
+  - Lob  
+  - Anerkennung  
+  - Verstärkung normgerechten Verhaltens  
+
+### Gewalt an Schulen
+
+- Kontinuum von Konflikten:
+  - Alltagskonflikte  
+  - Regelverstösse  
+  - Massive Gewalt  
+- Unterschiedliche Intensitäten → unterschiedliche Reaktionen notwendig  
+- Für extreme Fälle:
+  - Krisenpläne  
+  - klare Interventionsleitlinien  
+
+### Mobbing
+
+- Systematische, wiederholte psychische Gewalt  
+- Auftreten:
+  - zwischen Schüler:innen  
+  - zwischen Schüler:innen und Lehrpersonen  
+- Entwicklung:
+  - meist schleichend  
+  - oft lange unbemerkt  
+- Konsequenz:
+  - frühe Intervention entscheidend  
+
+### Typische Anzeichen
+
+- Soziale Ausgrenzung  
+- Gerüchte und Lächerlichmachen  
+- Informationsentzug  
+- Abwertung im Unterricht  
+- Isolation auch ausserhalb der Schule  
+
+### Interventionskonzept bei Mobbing
+
+1. Opfer:
+   - Schutz gewährleisten  
+   - Unterstützung anbieten  
+2. Täter:
+   - Beteiligung klären  
+   - Verantwortung einfordern  
+3. Klasse:
+   - Gruppe einbeziehen  
+   - Dynamiken sichtbar machen  
+4. Nachbereitung:
+   - Wirksamkeit überprüfen  
+   - Verlauf reflektieren  
+
+### Zentrale Prinzipien
+- Sensibilisierung:
+  - Schüler:innen  
+  - Lehrpersonen  
+  - Eltern  
+- Stärkung der Lehrpersonen  
+- Offene Kommunikation ohne Schuldzuweisung  
+- Klare Grenzen setzen und handeln  
+- Einbezug der Mitschüler:innen  
+- Gemeinsames Vorgehen als Schulgemeinschaft  
+
+### Besonderheiten von Mobbing
+- oft „unsichtbar“  
+- stark gruppendynamisch  
+- hohe Anforderungen an:
+  - Beobachtung  
+  - Diagnose  
+  - professionelles Handeln  
+
+### Systemischer Ansatz
+- Kombination von: Prävention und Intervention  
+- Einbezug aller Akteure: Schule, Klasse, Umfeld  
+- Verbindung von: Unterrichtskultur, Schulkultur  
+- Nutzung verschiedener Programme: Streitschlichtung, Anti-Mobbing-Strategien  
+
+
+## Programme
+
+### Streit-Schlichter-Programme (Peer-Mediation)
+
+**Ziel**
+- Konflikte durch Schüler:innen selbst lösen
+- Förderung von Kommunikation und Verantwortung
+
+**Zielgruppe**
+- gesamte Schule (v. a. Schüler:innen als Mediator:innen)
+
+**Ansatz**
+- Konflikte sind normal → Umgang entscheidend
+- Mediation statt autoritäre Lösung
+
+**Methoden**
+- strukturierter Mediationsprozess (5 Phasen)
+- Rollenspiele, aktives Zuhören, Ich-Botschaften
+
+**Stärken**
+- stärkt Konfliktlösungskompetenzen
+- fördert Verantwortung und Partizipation
+
+**Schwächen**
+- hoher Implementationsaufwand
+- Wirkung abhängig von Schulverankerung
+
+
+### FAUSTLOS (Second Step)
+
+**Ziel**
+- Reduktion aggressiven Verhaltens
+- Förderung sozialer Kompetenzen
+
+**Zielgruppe**
+- Kindergarten & Grundschule
+
+**Ansatz**
+- Training von:
+  - Empathie  
+  - Impulskontrolle  
+  - Umgang mit Wut  
+
+**Methoden**
+- strukturierte Lektionen
+- Rollenspiele, Diskussionen, Übungen
+
+**Stärken**
+- evidenzbasiert  
+- klare Struktur  
+
+**Schwächen**
+- teilweise stark kognitiv  
+- Umsetzung zeitintensiv  
+
+## Sozialtraining in der Schule
+
+**Ziel**
+- Aufbau sozial kompetenten Verhaltens
+- Reduktion von Aggression, Angst, Unsicherheit
+
+**Zielgruppe**
+- 3.–6. Klasse
+
+**Ansatz**
+- sozial-kognitive Informationsverarbeitung
+
+**Methoden**
+- Rollenspiele  
+- Interaktionsübungen  
+- Reflexion sozialer Situationen  
+
+**Stärken**
+- gut im Unterricht integrierbar  
+- messbare Effekte auf Verhalten  
+
+**Schwächen**
+- Wirkung abhängig von Lehrperson  
+- organisatorischer Aufwand  
+
+
+### Training mit aggressiven Kindern
+
+**Ziel**
+- gezielte Verhaltensänderung bei aggressiven Kindern
+
+**Zielgruppe**
+- Kinder (ca. 7–13 Jahre)
+
+**Ansatz**
+- verhaltenstherapeutisch (soziales Lernen)
+
+**Methoden**
+- Einzel- und Gruppentraining  
+- Rollenspiele  
+- Elternarbeit  
+
+**Stärken**
+- hohe Wirksamkeit  
+- differenzierte Förderung  
+
+**Schwächen**
+- hoher Aufwand  
+- Transfer in Alltag herausfordernd  
+
+### Verhaltenstraining für Schulanfänger
+
+**Ziel**
+- frühe Prävention von Aggression und Unaufmerksamkeit
+
+**Zielgruppe**
+- 1.–2. Klasse
+
+**Ansatz**
+- Förderung:
+  - Wahrnehmung  
+  - Emotionen  
+  - soziale Kompetenzen  
+
+**Methoden**
+- strukturierte Unterrichtseinheiten  
+- Rollenspiele, Übungen, Geschichten  
+
+**Stärken**
+- frühpräventiv  
+- gut in Klassen integrierbar  
+
+**Schwächen**
+- abhängig von Lehrkompetenz  
+- organisatorische Voraussetzungen nötig  
+
+
+### Komm, wir finden eine Lösung!
+
+**Ziel**
+- konstruktiver Umgang mit Konflikten
+
+**Zielgruppe**
+- Grundschule
+
+**Ansatz**
+- lösungsorientiert (nicht problemzentriert)
+
+**Methoden**
+- Gruppenarbeit  
+- Kommunikationstraining  
+- „Friedenstreppe“  
+
+**Stärken**
+- praxisnah  
+- fördert eigenständige Lösungen  
+
+**Schwächen**
+- oft externe Trainer nötig  
+- Kostenfaktor  
+
+
+### Programm „Soziales Lernen“
+
+**Ziel**
+- Verbesserung von Sozialkompetenz und Klassenklima
+
+**Zielgruppe**
+- Sekundarstufe I
+
+**Ansatz**
+- handlungsorientiertes Lernen im sozialen Kontext
+
+**Methoden**
+- Diskussionen  
+- Rollenspiele  
+- Problemlöseaufgaben  
+
+**Stärken**
+- lebensweltnah  
+- fördert Empathie und Kommunikation  
+
+**Schwächen**
+- Wirkung oft nicht nachhaltig ohne langfristige Integration  
+
+
+### Coolness-Training (CT)
+
+**Ziel**
+- Reduktion von Gewalt
+- Förderung von Selbstkontrolle und Verantwortung
+
+**Zielgruppe**
+- gewaltauffällige Jugendliche + Gruppe
+
+**Ansatz**
+- konfrontative Pädagogik
+- „Konfrontation als Hilfe“
+
+**Methoden**
+- Rollenspiele  
+- körperorientierte Übungen  
+- „Heißer Stuhl“  
+
+**Stärken**
+- adressiert Täter, Opfer und Gruppe  
+- stärkt Verantwortungsübernahme  
+
+**Schwächen**
+- konfrontativer Ansatz umstritten  
+- hohe Anforderungen an Durchführung  
