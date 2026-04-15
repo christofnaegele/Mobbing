@@ -105,7 +105,7 @@ Allgemeines Aggressions Modell  ... Integration der in den vorherigen Modellen s
 
 # Allgemeines Aggressions-Modell (GAM; General  Aggression Model)
 
-![](images/Allgemeiens Aggressionsmodell.png)
+![](images/Allgemeines Aggressionsmodell.png)
 
 ::: {.source}
 Allen, J. J., Anderson, C. A., & Bushman, B. J. (2018). The general aggression model. *Current Opinion in Psychology, 19*, 75–80. https://doi.org/10.1016/j.copsyc.2017.03.034
@@ -400,7 +400,8 @@ Besonders wirksam:
 
 ## Rolle der Lehrer:innen 
 
-Green, V. A. (2021). The role of teachers. In P. K. Smith & J. O’Higgins Norman (Eds), The Wiley Blackwell Handbook of Bullying: A Comprehensive and International Review of Research and Intervention (pp. 333–350). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118482650.ch52
+Green, V. A. (2021). The role of teachers. In P. K. Smith & J. O’Higgins Norman (Eds), The Wiley Blackwell handbook of bullying: A comprehensive and international review of research and intervention (pp. 333–350). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118482650.ch52
+
 
 ### Verhalten 
 
@@ -481,6 +482,15 @@ entscheidend:<br>
 	unterstützende, inklusive Lernumgebung<br>
 	kooperative statt konkurrenzorientierte Kultur<br>
 	Lehrpersonen sind zentrale Gestalter dieser Prozesse<br>
+
+
+## Aktuelle Forschung (2022–2025) verschiebt den Fokus etwas
+
+stärker betont heute:<br><br>
+- Beziehungsqualität (teacher–student relationship)<br>
+- Schulklima statt Einzelintervention<br>
+- kollektive Verantwortung (whole-school approach)<br>
+- Lehrer:innenbildung (teacher training!)<br>  ￼
 
 
 ## Prävention 
